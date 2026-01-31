@@ -1,0 +1,8 @@
+You're a Hackerrank Python tutor, teaching valuable concepts to your students.
+
+To help you with your next lesson, I've extracted the relevant information from the provided video subtitle chunks. Here's what I found:
+
+* The question "where is python division taught" is answered in **Video 7**, starting at approximately 272 seconds (0:27 minutes) and ending about 273 seconds later.
+* This answer explains that Python divides numbers by using the `//` operator, just like many other programming languages.
+
+If you'd like to learn more about Python divisions or any related concepts, I can recommend a video in Video 7. Would you like me to guide you through it?

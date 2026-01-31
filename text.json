@@ -1,0 +1,1118 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 0.0,
+            "end": 1.8,
+            "text": " Hi there, welcome back."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 1.9000000000000001,
+            "end": 5.8,
+            "text": " In this video, I'm going to show you how to tackle this problem"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 5.9,
+            "end": 9.700000000000001,
+            "text": " from the print function in the hacker rank assessment questions."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 9.8,
+            "end": 12.6,
+            "text": " What I have, like always, on the left,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 12.700000000000001,
+            "end": 15.6,
+            "text": " I have the actual hacker rank dashboard of mine."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 15.700000000000001,
+            "end": 17.7,
+            "text": " And on the right, I have a Jupyter notebook"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 17.8,
+            "end": 21.0,
+            "text": " that helps me to teach you some important"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 21.1,
+            "end": 23.8,
+            "text": " and small parts of Python programming."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 23.900000000000002,
+            "end": 26.0,
+            "text": " They might sound really small,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 26.0,
+            "end": 30.6,
+            "text": " but they are so important in building your knowledge of Python programming."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 30.7,
+            "end": 33.7,
+            "text": " So, looking at the hacker rank dashboard,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 33.8,
+            "end": 35.8,
+            "text": " on the left side, I've got the task."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 35.9,
+            "end": 38.1,
+            "text": " In the white side, in the white area,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 38.2,
+            "end": 40.7,
+            "text": " I've got the area to write my code."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 40.8,
+            "end": 43.1,
+            "text": " If you haven't seen my videos before, no problems."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 43.2,
+            "end": 45.900000000000006,
+            "text": " I can tell you that this part of the code"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 46.0,
+            "end": 52.0,
+            "text": " is the execution part."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 52.2,
+            "end": 55.5,
+            "text": " So, this is when we actually get the work"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 55.6,
+            "end": 59.1,
+            "text": " to be applied onto what we have written."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 59.2,
+            "end": 63.3,
+            "text": " But here is the actual function."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 63.4,
+            "end": 66.6,
+            "text": " So, think about it. Imagine you've bought a hammer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 66.7,
+            "end": 70.7,
+            "text": " So, this part of the top part is actually having the hammer,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 70.8,
+            "end": 72.0,
+            "text": " like owning a hammer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 72.1,
+            "end": 74.8,
+            "text": " But does that mean that you're actually using that hammer"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 74.9,
+            "end": 78.5,
+            "text": " to put an artwork on the wall?"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 78.6,
+            "end": 80.4,
+            "text": " No, that happens here."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 80.5,
+            "end": 84.5,
+            "text": " This is when you pick up the hammer and do that bit of work."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 84.60000000000001,
+            "end": 86.30000000000001,
+            "text": " So, I just wanted to let you know that."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 86.4,
+            "end": 88.9,
+            "text": " Don't be scared about what you see here."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 89.0,
+            "end": 91.10000000000001,
+            "text": " If you don't understand what it does,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 91.2,
+            "end": 94.2,
+            "text": " I've left a link to the video that I'm explaining to you what it does."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 94.30000000000001,
+            "end": 97.5,
+            "text": " But for now, let's stick to the task."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 97.60000000000001,
+            "end": 101.30000000000001,
+            "text": " So, like always, please read the task really carefully."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 101.4,
+            "end": 104.5,
+            "text": " The included code stop will read an integer n."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 104.60000000000001,
+            "end": 107.30000000000001,
+            "text": " So, this is where I'm reading the integer n."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 107.4,
+            "end": 108.10000000000001,
+            "text": " Look at that."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 108.19999999999999,
+            "end": 110.6,
+            "text": " So, if I copy that in my Jupyter notebook,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 110.69999999999999,
+            "end": 113.39999999999999,
+            "text": " I'm getting an integer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 113.5,
+            "end": 116.0,
+            "text": " So, this is the integer I'm getting from the person"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 116.1,
+            "end": 118.39999999999999,
+            "text": " who is sitting behind the computer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 118.5,
+            "end": 121.0,
+            "text": " And I'm putting it in the variable n."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 121.1,
+            "end": 125.89999999999999,
+            "text": " Look at that. I'm saying, okay, enter the integer, maybe 56."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 126.0,
+            "end": 131.0,
+            "text": " So, n, if I print it again, you will see that n is 56."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 131.1,
+            "end": 134.2,
+            "text": " So, this is one part of the execution part."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 134.29999999999998,
+            "end": 140.7,
+            "text": " So, you get an n and then you essentially want to do something on n,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 140.79999999999998,
+            "end": 143.7,
+            "text": " which will come from the top part."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 143.79999999999998,
+            "end": 145.6,
+            "text": " But for now, I've put it in a comment."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 145.7,
+            "end": 147.6,
+            "text": " I will come back and complete that later."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 147.7,
+            "end": 149.7,
+            "text": " So, we're getting an n. Thank you."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 149.79999999999998,
+            "end": 153.79999999999998,
+            "text": " Without using any string methods, try to print the following."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 153.89999999999998,
+            "end": 157.0,
+            "text": " So, print from 1 all the way to n."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 157.1,
+            "end": 160.29999999999998,
+            "text": " So, for example, if your integer is 5,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 160.4,
+            "end": 164.8,
+            "text": " we want you to print 1, 2, 3, 4, 5 right next to each other."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 164.9,
+            "end": 166.9,
+            "text": " For example, oh, the example is here."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 167.0,
+            "end": 172.70000000000002,
+            "text": " n equals 5 and the program expects us to print 1, 2, 3, 4, 5."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 172.8,
+            "end": 175.70000000000002,
+            "text": " So, if the user gives 1000 here,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 175.8,
+            "end": 180.8,
+            "text": " they want you to print from 1 to 1000 next to each other."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 180.9,
+            "end": 182.9,
+            "text": " I think that would be a crazy thing to do."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 183.0,
+            "end": 184.5,
+            "text": " But, well, if they ask for it."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 184.60000000000002,
+            "end": 189.10000000000002,
+            "text": " So, let's make a new function and call it, for example,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 189.9,
+            "end": 194.79999999999998,
+            "text": " print consecutive numbers."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 194.9,
+            "end": 195.9,
+            "text": " How about that?"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 196.0,
+            "end": 199.29999999999998,
+            "text": " And give me a number and I will print the consecutive numbers for that."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 199.4,
+            "end": 202.9,
+            "text": " I'm putting the word pass here because Python is like,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 203.0,
+            "end": 207.0,
+            "text": " okay, he said pass means that he doesn't want to do anything right now,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 207.1,
+            "end": 210.6,
+            "text": " but he will start writing things later."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 210.7,
+            "end": 215.2,
+            "text": " Why I did that is that I want you to remember that, for example,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 215.29999999999998,
+            "end": 219.5,
+            "text": " the type of 56 is an integer,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 219.6,
+            "end": 224.39999999999998,
+            "text": " but the type of 56, which is exactly the same thing,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 224.5,
+            "end": 227.0,
+            "text": " but it's not, is a string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 227.1,
+            "end": 233.5,
+            "text": " This question wants us to return a string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 233.6,
+            "end": 235.5,
+            "text": " If you look at that, it says,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 235.6,
+            "end": 240.6,
+            "text": " print the list of integers from 1 through n as a string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 240.7,
+            "end": 244.29999999999998,
+            "text": " If the user says n equals 5,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 244.3,
+            "end": 247.4,
+            "text": " they don't want us to print 1, 2, 3, 4, 5."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 247.5,
+            "end": 252.20000000000002,
+            "text": " However, they want us to print 1, 2, 3, 4, 5 as a string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 252.3,
+            "end": 253.8,
+            "text": " So, that might be a bit confusing,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 253.9,
+            "end": 255.9,
+            "text": " but right now I'll tell you what it means."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 256.0,
+            "end": 257.1,
+            "text": " Let's get rid of that."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 257.2,
+            "end": 258.7,
+            "text": " Just have an empty cell. Beautiful."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 258.8,
+            "end": 260.40000000000003,
+            "text": " Let's start writing our function."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 260.5,
+            "end": 263.8,
+            "text": " What we want to start, we want to start with an empty container,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 263.90000000000003,
+            "end": 266.6,
+            "text": " like a bowl that doesn't have anything in it."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 266.7,
+            "end": 271.7,
+            "text": " Let's call it final string and let's put nothing in it."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 272.0,
+            "end": 273.8,
+            "text": " We're just saying that, hey, Python,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 273.9,
+            "end": 276.59999999999997,
+            "text": " final string is an empty string,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 276.7,
+            "end": 280.8,
+            "text": " because we know that these people want us to return a string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 280.9,
+            "end": 284.0,
+            "text": " We're just going to make an empty bowl for the string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 284.09999999999997,
+            "end": 285.09999999999997,
+            "text": " Okay?"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 285.2,
+            "end": 292.2,
+            "text": " Now, for i in range of 1 and number plus 1."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 292.3,
+            "end": 295.2,
+            "text": " Let's use the word pass again, because I'm going to come back."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 295.3,
+            "end": 299.0,
+            "text": " I'm just putting pass here so that the code doesn't break"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 299.09999999999997,
+            "end": 301.59999999999997,
+            "text": " in case I run it."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 301.7,
+            "end": 303.5,
+            "text": " You might ask, what is this?"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 303.59999999999997,
+            "end": 304.8,
+            "text": " Well, it's a for loop."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 304.9,
+            "end": 312.0,
+            "text": " If the user gives me 5 as n, the range of 1 to 5,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 312.09999999999997,
+            "end": 316.2,
+            "text": " I can't really print it unless I convert it into a list."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 316.3,
+            "end": 319.4,
+            "text": " Okay, let's convert it to a list and then print it,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 319.5,
+            "end": 323.59999999999997,
+            "text": " because, sorry, Python doesn't easily show print range."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 323.7,
+            "end": 325.59999999999997,
+            "text": " You can see that. Let me just show you."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 325.7,
+            "end": 327.0,
+            "text": " It will not print anything."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 327.09999999999997,
+            "end": 328.59999999999997,
+            "text": " It will just say, oh, it's a range."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 328.6,
+            "end": 331.90000000000003,
+            "text": " No, I want you to print the list of that range."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 332.0,
+            "end": 338.1,
+            "text": " But the funny thing is that range from 1 to 5 does not include 5."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 338.20000000000005,
+            "end": 339.5,
+            "text": " Keep that in your mind."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 339.6,
+            "end": 341.5,
+            "text": " This is always true."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 341.6,
+            "end": 344.90000000000003,
+            "text": " Range is not inclusive of the end."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 345.0,
+            "end": 347.3,
+            "text": " So if you want to see 1, 2, 3, 4, 5,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 347.40000000000003,
+            "end": 350.20000000000005,
+            "text": " you need to say, okay, go from 1 to 6,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 350.3,
+            "end": 353.8,
+            "text": " because 5 plus 1 is 6."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 353.90000000000003,
+            "end": 357.70000000000005,
+            "text": " So range is not inclusive of the end of the range."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 357.7,
+            "end": 360.4,
+            "text": " That's why I have num plus 1."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 360.5,
+            "end": 362.59999999999997,
+            "text": " But why did I make this for loop?"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 362.7,
+            "end": 364.4,
+            "text": " That's pretty easy, because I want to say,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 364.5,
+            "end": 370.0,
+            "text": " for i in range 1 and n plus 1,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 370.09999999999997,
+            "end": 373.0,
+            "text": " oops, colon, print i."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 373.09999999999997,
+            "end": 375.8,
+            "text": " Look, it will give them one by one to me."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 375.9,
+            "end": 377.7,
+            "text": " And I have an empty bowl."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 377.8,
+            "end": 381.0,
+            "text": " I made it here. I said, final string is an empty bowl."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 381.09999999999997,
+            "end": 384.4,
+            "text": " I will take them one by one, put them in the empty bowl."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 384.5,
+            "end": 386.2,
+            "text": " Very easy. How do I do that?"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 386.3,
+            "end": 391.3,
+            "text": " Well, my empty bowl is not going to be empty for a long time,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 391.4,
+            "end": 395.7,
+            "text": " because every time I will add i to it,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 395.8,
+            "end": 398.3,
+            "text": " but in its string format."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 398.4,
+            "end": 401.5,
+            "text": " Remember that final string is a string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 401.59999999999997,
+            "end": 404.7,
+            "text": " So you can't add a string to a number."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 404.8,
+            "end": 407.8,
+            "text": " i is a number from what you can see here."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 407.9,
+            "end": 412.8,
+            "text": " I need to convert it to a string to be able to add it to another string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 412.90000000000003,
+            "end": 418.1,
+            "text": " So every time when i is 1, final string is still empty."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 418.2,
+            "end": 422.90000000000003,
+            "text": " So empty plus 1 is a bowl with 1 in it."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 423.0,
+            "end": 425.1,
+            "text": " Go up. This is 2 now."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 425.2,
+            "end": 428.6,
+            "text": " So a bowl with number 1 in it plus 2"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 428.7,
+            "end": 431.90000000000003,
+            "text": " is a bowl with number 1 and number 2 in it."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 432.0,
+            "end": 433.5,
+            "text": " Go up. 3."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 433.6,
+            "end": 438.3,
+            "text": " A bowl with number 1 and number 2 in it plus number 3, and so forth."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 438.40000000000003,
+            "end": 439.8,
+            "text": " And the story continues."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 439.90000000000003,
+            "end": 442.3,
+            "text": " So once you have added everything,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 442.40000000000003,
+            "end": 445.8,
+            "text": " all you need to do is, let's make sure I type this correct,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 445.90000000000003,
+            "end": 448.3,
+            "text": " you print the final string."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 448.40000000000003,
+            "end": 449.40000000000003,
+            "text": " Let's run this code."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 449.5,
+            "end": 451.3,
+            "text": " Hopefully it works. Fingers crossed."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 451.40000000000003,
+            "end": 454.0,
+            "text": " And you will see that it's not going to run."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 454.1,
+            "end": 457.8,
+            "text": " Why? The reason is, I told you in the beginning,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 457.90000000000003,
+            "end": 461.5,
+            "text": " I said, this is the hammer that you have bought."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 461.6,
+            "end": 462.90000000000003,
+            "text": " Beautiful. You have a hammer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 463.0,
+            "end": 468.2,
+            "text": " But you can't just hang a frame by a sitting hammer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 468.2,
+            "end": 472.09999999999997,
+            "text": " You need to use that hammer. And that's here."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 472.2,
+            "end": 475.0,
+            "text": " So after I have this hammer prepared,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 475.09999999999997,
+            "end": 481.59999999999997,
+            "text": " I need to say, okay, print consecutive numbers."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 481.7,
+            "end": 485.09999999999997,
+            "text": " Let's make sure I'm getting it right on n."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 485.2,
+            "end": 487.8,
+            "text": " I'll just copy. Yeah, that's the right one."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 487.9,
+            "end": 493.0,
+            "text": " If I run this now, it means that I had a hammer and I used that hammer."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 493.09999999999997,
+            "end": 495.09999999999997,
+            "text": " Congratulations. That worked."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 495.3,
+            "end": 498.6,
+            "text": " So submit it. Let's let them test more cases."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 498.70000000000005,
+            "end": 501.20000000000005,
+            "text": " All cases are great. And ta-da."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 501.3,
+            "end": 503.5,
+            "text": " If you like this video, hit the like button,"
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 503.6,
+            "end": 505.0,
+            "text": " subscribe to my channel."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 505.1,
+            "end": 508.6,
+            "text": " I'm going to solve pretty much all hacker rank problems."
+        },
+        {
+            "number": "7",
+            "title": " Print Function\uff1a Hackerrank \uff5c Python \uff5c ",
+            "start": 508.70000000000005,
+            "end": 510.0,
+            "text": " Thank you. See you soon."
+        }
+    ],
+    "text": " Hi there, welcome back. In this video, I'm going to show you how to tackle this problem from the print function in the hacker rank assessment questions. What I have, like always, on the left, I have the actual hacker rank dashboard of mine. And on the right, I have a Jupyter notebook that helps me to teach you some important and small parts of Python programming. They might sound really small, but they are so important in building your knowledge of Python programming. So, looking at the hacker rank dashboard, on the left side, I've got the task. In the white side, in the white area, I've got the area to write my code. If you haven't seen my videos before, no problems. I can tell you that this part of the code is the execution part. So, this is when we actually get the work to be applied onto what we have written. But here is the actual function. So, think about it. Imagine you've bought a hammer. So, this part of the top part is actually having the hammer, like owning a hammer. But does that mean that you're actually using that hammer to put an artwork on the wall? No, that happens here. This is when you pick up the hammer and do that bit of work. So, I just wanted to let you know that. Don't be scared about what you see here. If you don't understand what it does, I've left a link to the video that I'm explaining to you what it does. But for now, let's stick to the task. So, like always, please read the task really carefully. The included code stop will read an integer n. So, this is where I'm reading the integer n. Look at that. So, if I copy that in my Jupyter notebook, I'm getting an integer. So, this is the integer I'm getting from the person who is sitting behind the computer. And I'm putting it in the variable n. Look at that. I'm saying, okay, enter the integer, maybe 56. So, n, if I print it again, you will see that n is 56. So, this is one part of the execution part. So, you get an n and then you essentially want to do something on n, which will come from the top part. But for now, I've put it in a comment. I will come back and complete that later. So, we're getting an n. Thank you. Without using any string methods, try to print the following. So, print from 1 all the way to n. So, for example, if your integer is 5, we want you to print 1, 2, 3, 4, 5 right next to each other. For example, oh, the example is here. n equals 5 and the program expects us to print 1, 2, 3, 4, 5. So, if the user gives 1000 here, they want you to print from 1 to 1000 next to each other. I think that would be a crazy thing to do. But, well, if they ask for it. So, let's make a new function and call it, for example, print consecutive numbers. How about that? And give me a number and I will print the consecutive numbers for that. I'm putting the word pass here because Python is like, okay, he said pass means that he doesn't want to do anything right now, but he will start writing things later. Why I did that is that I want you to remember that, for example, the type of 56 is an integer, but the type of 56, which is exactly the same thing, but it's not, is a string. This question wants us to return a string. If you look at that, it says, print the list of integers from 1 through n as a string. If the user says n equals 5, they don't want us to print 1, 2, 3, 4, 5. However, they want us to print 1, 2, 3, 4, 5 as a string. So, that might be a bit confusing, but right now I'll tell you what it means. Let's get rid of that. Just have an empty cell. Beautiful. Let's start writing our function. What we want to start, we want to start with an empty container, like a bowl that doesn't have anything in it. Let's call it final string and let's put nothing in it. We're just saying that, hey, Python, final string is an empty string, because we know that these people want us to return a string. We're just going to make an empty bowl for the string. Okay? Now, for i in range of 1 and number plus 1. Let's use the word pass again, because I'm going to come back. I'm just putting pass here so that the code doesn't break in case I run it. You might ask, what is this? Well, it's a for loop. If the user gives me 5 as n, the range of 1 to 5, I can't really print it unless I convert it into a list. Okay, let's convert it to a list and then print it, because, sorry, Python doesn't easily show print range. You can see that. Let me just show you. It will not print anything. It will just say, oh, it's a range. No, I want you to print the list of that range. But the funny thing is that range from 1 to 5 does not include 5. Keep that in your mind. This is always true. Range is not inclusive of the end. So if you want to see 1, 2, 3, 4, 5, you need to say, okay, go from 1 to 6, because 5 plus 1 is 6. So range is not inclusive of the end of the range. That's why I have num plus 1. But why did I make this for loop? That's pretty easy, because I want to say, for i in range 1 and n plus 1, oops, colon, print i. Look, it will give them one by one to me. And I have an empty bowl. I made it here. I said, final string is an empty bowl. I will take them one by one, put them in the empty bowl. Very easy. How do I do that? Well, my empty bowl is not going to be empty for a long time, because every time I will add i to it, but in its string format. Remember that final string is a string. So you can't add a string to a number. i is a number from what you can see here. I need to convert it to a string to be able to add it to another string. So every time when i is 1, final string is still empty. So empty plus 1 is a bowl with 1 in it. Go up. This is 2 now. So a bowl with number 1 in it plus 2 is a bowl with number 1 and number 2 in it. Go up. 3. A bowl with number 1 and number 2 in it plus number 3, and so forth. And the story continues. So once you have added everything, all you need to do is, let's make sure I type this correct, you print the final string. Let's run this code. Hopefully it works. Fingers crossed. And you will see that it's not going to run. Why? The reason is, I told you in the beginning, I said, this is the hammer that you have bought. Beautiful. You have a hammer. But you can't just hang a frame by a sitting hammer. You need to use that hammer. And that's here. So after I have this hammer prepared, I need to say, okay, print consecutive numbers. Let's make sure I'm getting it right on n. I'll just copy. Yeah, that's the right one. If I run this now, it means that I had a hammer and I used that hammer. Congratulations. That worked. So submit it. Let's let them test more cases. All cases are great. And ta-da. If you like this video, hit the like button, subscribe to my channel. I'm going to solve pretty much all hacker rank problems. Thank you. See you soon."
+}
